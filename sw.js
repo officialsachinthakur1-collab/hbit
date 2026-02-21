@@ -1,6 +1,6 @@
 const CACHE_NAME = 'hanuman-tracker-v1';
 const urlsToCache = [
-    './premium_tracker_app.html',
+    './index.html',
     './HANUMAN JI.jpg',
     './manifest.json',
     'https://cdn.jsdelivr.net/npm/chart.js'
